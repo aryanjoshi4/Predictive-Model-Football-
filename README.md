@@ -12,18 +12,28 @@
     eagles, commanders, broncos, cowboys, giants, bucs, ravens, vikings, packers, steelers, browns, bears, saints, falcons.
 
 Example output:
-Data Loaded Successfully.
-     year   team  yards
-  0  2024   jets    182
-  1  2024   jets    215
-  2  2024   pats    154
-  2  2024   pats    154
-  3  2024  lions    362
-  4  2024  rams     342
-  Training Set Size: (72, 31)
-  Testing Set Size: (18, 31)
 
-  Mean Absolute Error: 77.2534537037037
-  R-squared Score: -0.21182772322162147
-  Predicted Passing Yards for pats in 2024: 170.4725
+        year   team  yards
+     
+     0  2024   jets    182
+     
+     1  2024   jets    215
+     
+     2  2024   pats    154
+     
+     2  2024   pats    154
+     
+     3  2024  lions    362
+     
+     4  2024  rams     342
+     
+     Training Set Size: (72, 31)
+     
+     Testing Set Size: (18, 31)
+     
+     Mean Absolute Error: 77.2534537037037
+     
+     R-squared Score: -0.21182772322162147
+     
+     Predicted Passing Yards for pats in 2024: 170.4725
 
